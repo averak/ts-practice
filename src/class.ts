@@ -8,7 +8,6 @@ class Creature {
   }
 }
 
-// sub clas
 class Dog extends Creature {
   bark: string;
 
