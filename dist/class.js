@@ -19,7 +19,6 @@ var Creature = /** @class */ (function () {
     }
     return Creature;
 }());
-// sub clas
 var Dog = /** @class */ (function (_super) {
     __extends(Dog, _super);
     function Dog(bark) {
